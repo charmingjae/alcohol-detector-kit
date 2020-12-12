@@ -3,7 +3,9 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 import time
 
-updater = Updater("1422387923:AAH9-XFd06TtZ1yHm2TNRZeKchpwCKx7Xfs", use_context=True)
+updater = Updater(
+    "1422387923:AAH9-XFd06TtZ1yHm2TNRZeKchpwCKx7Xfs", use_context=True)
+
 
 def mqtest():
     while(True):

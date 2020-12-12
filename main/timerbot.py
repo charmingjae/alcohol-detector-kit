@@ -42,9 +42,11 @@ def takePhoto():
     camera.capture('image.jpg')
     camera.close()
 
+
 def start(update, context):
     update.message.reply_text('Hi! Use /set <seconds> to set a timer')
     update.message.reply_text('Hello! My name is Minjae')
+
 
 def alarm(context):
     """Send the alarm message."""
@@ -76,7 +78,8 @@ def set_timer(update: Update, context: CallbackContext) -> None:
             return
 
         job_removed = remove_job_if_exists(str(chat_id), context)
-        context.job_queue.run_once(alarm, due, context=chat_id, name=str(chat_id))
+        context.job_queue.run_once(
+            alarm, due, context=chat_id, name=str(chat_id))
 
         text = 'Timer successfully set!'
         if job_removed:
@@ -94,18 +97,22 @@ def unset(update: Update, context: CallbackContext) -> None:
     text = 'Timer successfully cancelled!' if job_removed else 'You have no active timer.'
     update.message.reply_text(text)
 
-def poop():
-    updater = Updater("1422387923:AAH9-XFd06TtZ1yHm2TNRZeKchpwCKx7Xfs", use_context=True)
 
-    updater.bot.send_message(chat_id=1456237692, text='Alcohol is detected!!!!')
+def poop():
+    updater = Updater(
+        "1422387923:AAH9-XFd06TtZ1yHm2TNRZeKchpwCKx7Xfs", use_context=True)
+
+    updater.bot.send_message(
+        chat_id=1456237692, text='Alcohol is detected!!!!')
+
 
 def main():
     """Run bot."""
     # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
     # Post version 12 this will no longer be necessary
-    updater = Updater("1422387923:AAH9-XFd06TtZ1yHm2TNRZeKchpwCKx7Xfs", use_context=True)
-
+    updater = Updater(
+        "1422387923:AAH9-XFd06TtZ1yHm2TNRZeKchpwCKx7Xfs", use_context=True)
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
@@ -117,7 +124,6 @@ def main():
     dispatcher.add_handler(CommandHandler("unset", unset))
     dispatcher.add_handler(CommandHandler("poop", poop))
 
-    
     # Start the Bot
     updater.start_polling()
 
@@ -126,6 +132,6 @@ def main():
     # non-blocking and will stop the bot gracefully.
     updater.idle()
 
-    
+
 if __name__ == '__main__':
     main()
