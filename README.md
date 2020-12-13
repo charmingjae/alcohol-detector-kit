@@ -25,7 +25,7 @@ __🥰 Member__
 
 <div align="center">
 
-<span style="font-size:30pt;">음주운전 방지를 위한 차량부착형 MQ-3 알코올 감지 키트</span><br/> *Vehicle-attached MQ-3 alcohol detection kit for preventing drunk driving*
+### __음주운전 방지를 위한 차량부착형 MQ-3 알코올 감지 키트__<br/> *Vehicle-attached MQ-3 alcohol detection kit for preventing drunk driving*
 </div><br/>
 
 * * *
