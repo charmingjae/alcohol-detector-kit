@@ -7,44 +7,42 @@ __🥰 Member__  : [사영훈](https://github.com/tkdudgns95) | [유혜상](http
 사람들은 음주 후의 운전의 위험함과 심각성을 충분히 인지하고 있지만, 음주운전으로 인한 사고 비율은 [__날이 갈 수록 증가하고 있다.__](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84)  
 따라서 본 프로젝트는 라즈베리파이를 이용한 저가의 하드웨어를 이용하여 음주운전 시도 시 알람을 주는 키트를 제작하고자 한다.
 
------------------------------------------------------------------------------------
  <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101986756-3cc15000-3cd3-11eb-9458-e2183839231b.PNG" alt="logo"  width="600" />    
  <br>
-    
-    
-    
+ <div align="center">
+
+__😎 Team__  
+🔥 __BLOCKBUS_TOP__ 🔥  
+<br/>
+
+__🥰 Member__  
+[사영훈](https://github.com/tkdudgns95) | [유혜상](https://github.com/Yuhye) | [이창해](https://github.com/vip7gain) | [전민수](https://github.com/GodofPig) | [차민재](https://github.com/charmingjae)  
+
+</div>
+
+* * *
+<br/>
+
 <h2 align="center">음주운전 방지를 위한 차량부착형 MQ-3 알코올 감지센서</h2>
-🥰 Member <br>
-[사영훈](https://github.com/tkdudgns95)  <br>
-[유혜상](https://github.com/Yuhye) <br>
-[이창해](https://github.com/vip7gain)  <br>
-[전민수](https://github.com/GodofPig)  <br>
-[차민재](https://github.com/charmingjae) <br>
+<h3 align="center" style="font-style:oblique">Vehicle-attached MQ-3 alcohol detection sensor for preventing drunk driving </h3><br/>
+
+* * *
+<br/>
+
+## 🚩 목차
+
+1. 프로젝트 소개 
+2. 제작 동기
+3. 사용 품목
+4. 라즈베리파이 구성도
+5. 도식화
+6. 문제점과 해결과정 
+7. 동작 시연
+8. Q&A
 
 <br>
 <br>
-
-#### <h2> 🚩목차 </h2>
-
-* 프로젝트 소개 
-
-* 제작 동기
-         
-* 사용 품목
-          
-* 라즈베리파이 구성도
-         
-* 도식화
-
-* 문제점과 해결과정
-         
-* 동작 시연
-         
-* Q&A
-
-<br>
- <br>
- <h3> 프로젝트 소개 </h3>
+<h3> 프로젝트 소개 </h3>
  
  <img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="800"/>      
  <br>
