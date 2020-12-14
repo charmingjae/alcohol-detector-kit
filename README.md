@@ -74,6 +74,7 @@ __🥰 Member__
 <br> 
 
 ### 라즈베리파이 구성도
+
 <br>
  <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988074-0091ed80-3cdb-11eb-8f6e-930be7482161.png" alt="configuration"/>
 
@@ -84,6 +85,7 @@ __🥰 Member__
 <br> 
  
 ### 도식화 
+
 <br>
  <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988164-4fd81e00-3cdb-11eb-8034-b2187fb11fb7.PNG" alt="schematization"/>
 
@@ -108,7 +110,9 @@ LED가 켜지고 부저가 울립니다. 그 다음에 텔레그램 메시지를
 
 <br>
 <br> 
+
 ### 동작시연  
+
 <br>
  <img src="" alt=""/>
 
