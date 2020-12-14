@@ -101,7 +101,7 @@ __🥰 Member__
 ## 문제점과 해결과정
 
 <br>
- <img src="" alt=""/>
+<img src="" alt=""/>
 
  <br>
 
@@ -124,7 +124,7 @@ __🥰 Member__
 ## 기대효과 
 
 <br>
- <img src="" alt=""/>
+ <p align="center"><img src="file:///C:/Users/User/Desktop/%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%B2%8C%EC%B9%99%EC%83%81%ED%96%A5.PNG" alt=""/></p>
  
 1.LED와 부저를 사용하여 운전자의 음주여부를 시/청각화 가능.
 
