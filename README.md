@@ -101,7 +101,7 @@ __🥰 Member__
 ## 문제점과 해결과정
 
 <br>
-<p align="center"><img src="img/problem.jpg alt="drive" width="600"/></p>
+<p align="center"><img src="https://github.com/charmingjae/raspberry/blob/changhae/img/problem.jpg?raw=true" width="600"/></p>
  <br>
 
  <br>
