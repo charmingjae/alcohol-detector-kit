@@ -101,7 +101,8 @@ __🥰 Member__
 ## 문제점과 해결과정
 
 <br>
-<img src="" alt=""/>
+<p align="center"><img src="img/problem.jpg alt="drive" width="600"/></p>
+ <br>
 
  <br>
 문제점과 해결과정- 저희 프로젝트의 목표가 공기중에 있는 알코올 부지를 감지가 되면 LED와 부저를 이용해서 운전자에게 알려주고 텔레그램을 이용해서 주변지인들에게 알려주는 것이다. 
