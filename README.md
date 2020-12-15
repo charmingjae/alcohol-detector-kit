@@ -102,13 +102,12 @@ __🥰 Member__
 ## 문제점과 해결과정
 
 <br>
-<p align="center"><img src="https://github.com/charmingjae/raspberry/blob/changhae/img/problem.jpg?raw=true" width="600"/></p>
  <br>
 
  <br>
 문제점과 해결과정- 
 <br>
-1. 하드웨어적인 결함 (부저의 문제)
+1. 하드웨어적인 결함 - 테스트 결과 정상적인 코드 실행에도 사운드가 들리지 않는 문제
 <br>
 2. 차량내 인터넷 연결이 필요한 문제
 <br>
