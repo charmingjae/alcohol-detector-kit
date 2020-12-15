@@ -108,7 +108,7 @@ __🥰 Member__
  <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988074-0091ed80-3cdb-11eb-8f6e-930be7482161.png" alt="configuration"/></p>
 
  <br>
- __MQ-3 센서__, __LED__, __부저__, __저항__을 연결한 __브레드보드__를 __라즈베리파이__에 연결한 구성도이다.
+ **MQ-3 센서 , LED, 부저, 저항**을 연결한 **브레드보드**를 **라즈베리파이**에 연결한 구성도이다.
   <br>
 
 <br>
