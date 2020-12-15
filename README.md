@@ -1,4 +1,4 @@
- <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101986756-3cc15000-3cd3-11eb-9458-e2183839231b.PNG" alt="logo"  width="600" />    
+ < align="center"><img src="https://user-images.githubusercontent.com/55028104/101986756-3cc15000-3cd3-11eb-9458-e2183839231b.PNG" alt="logo"  width="600" />    
  <br>
  <div align="center">
 
@@ -28,28 +28,28 @@ __🥰 Member__
 
 ## 🚩 __Contents__
 
-1. Abstract
-2. 프로젝트 소개
-3. 사용 품목
-4. 라즈베리파이 구성도
-5. 도식화
-6. 문제점과 해결과정 
-7. 동작 시연
-8. Q&A
-9. 기대효과
+1. __Abstract__
+2. __프로젝트 소개__
+3. __사용 품목__
+4. __라즈베리파이 구성도__
+5. __Flow-chart__
+6. __문제점과 해결과정__
+7. __시연__
+9. __기대효과__
+8. __Q&A__
 
-<br>
+<br/>
+<br/>
 
 ## Abstract 
-<br>
-<p align="center"><img src="https://user-images.githubusercontent.com/55028104/101987654-e3f4b600-3cd8-11eb-8a66-434f1d07e1d4.jpeg" alt="drive" width="600"/></p>
- <br>
+<p align="center"><img src="https://user-images.githubusercontent.com/55028104/101987654-e3f4b600-3cd8-11eb-8a66-434f1d07e1d4.jpeg" alt="drive" width="400"/></p>
+<br/>
  
 사람들은 음주 후의 운전의 위험함과 심각성을 충분히 인지하고 있지만, 음주운전으로 인한 사고 비율은 [__여전히 높은 추세 이다.__](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84)  
 따라서 라즈베리파이를 이용하여 가격, 활용 면에서 실용적이고 운전자의 음주운전을 예방하고자 본 프로젝트를 진행하게 되었다.
+<br/>
 
------------------------------------------------------------------                                                                                                                               
-<br>
+-----------------------------------------------------------------      
 <br>
 
 ## __프로젝트 소개__
@@ -59,16 +59,35 @@ __🥰 Member__
 
 본 프로젝트의 주제는 __차량 부착형 알코올 감지 키트__ 이다. 운전자의 음주 여부를 판독하기 위해 운전자의 __날숨을 감지할 수 있는__ 차량의 대시보드(Dashboard), 핸들 등의 위치에 부착된다.
 
+이 키트는 __MQ-3 센서__ 를 이용해 알코올을 감지한다. 만약, 이 센서에 알코올이 감지 되면 붉은 LED와 부저를 통해 운전자에게 __음주 상태라는 상황을 인식__ 시킨다.  
+그 후 선언된 파이썬 함수를 통하여 텔레그램으로 메시지를 보내 가족이나 친구 등의 지인들에게 __운전자의 상태를 전송__ 한다.
+
+<br/>
+
 -------------------------------------------------------------------
+<br/>
+
+## 도식화 
+<p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988164-4fd81e00-3cdb-11eb-8034-b2187fb11fb7.PNG" alt="schematization"/></p>
 
 <br>
-<br> 
+
+먼저 운전자의 날숨을 MQ-3 센서에서 감지 해 __기준 값(Reference) 보다 낮으면__ 루프를 돌면서 지속적으로 감지한다.  
+만약 기존 값(Reference) 보다 __감지 값(Levels)가 높다면__ LED와 부저(Buzzer)가 작동한다.  
+그 후에 텔레그램으로 운전자의 상태가 전송되며 전송이 된 후 LED와 부저는 작동을 멈추고 다시 처음으로 돌아가 날숨을 감지하는 과정을 수행한다.
+
+<br/>
+
+-------------------------------------------------------------------
+
+<br/>
+<br/>
 
 ## __사용 품목__
 <br>
- <img src="https://user-images.githubusercontent.com/55028104/101988037-b14bbd00-3cda-11eb-9af6-fe8842f54ec7.jpg" alt="sensor"/></p>
+ <img src="https://user-images.githubusercontent.com/55028104/101988037-b14bbd00-3cda-11eb-9af6-fe8842f54ec7.jpg" alt="sensor"/>
 
- <br>
+<br>
 
 -------------------------------------------------------------------
 
@@ -86,14 +105,6 @@ __🥰 Member__
 
 <br>
 <br> 
- 
-## 도식화 
-
-<br>
-<p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988164-4fd81e00-3cdb-11eb-8034-b2187fb11fb7.PNG" alt="schematization"/></p>
-
- <br>
-먼저 날숨을 MQ-3 센서에서 감지 해 기준 값(Reference) 보다 낮으면 루프를 돌면서 감지한다. 만약 기존 값(Reference) 보다 감지 값(Levels)가 높다면 LED와 부저(Buzzer)가 작동된다. 그 후에 텔레그램으로 운전자의 상태 값이 전송이 된다. 전송을 한 후 LED와 부저는 자동적으로 꺼지며 다시 처음으로 돌아가 날숨을 감지한다.
 
 -------------------------------------------------------------------
 
