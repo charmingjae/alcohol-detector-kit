@@ -113,8 +113,7 @@ __🥰 Member__
 ## __🍒 라즈베리파이 구성도__
 
 <br>
- <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988074-0091ed80-3cdb-11eb-8f6e-930be7482161.png" alt="configuration"/></p>
-
+ <p align="center"><img src="https://github.com/charmingjae/raspberry/blob/master/img/configuration%20V2.png" alt="configuration"/></p>
  <br>
  MQ-3 센서, LED, 부저, 저항을 연결한 브레드보드를 라즈베리파이에 연결한 구성도이다.
   <br>
