@@ -89,7 +89,7 @@ __🥰 Member__
 ## 도식화 
 
 <br>
-<p align="center"><img src="https://github.com/charmingjae/raspberry/blob/master/img/problem.jpg" alt="schematization"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988164-4fd81e00-3cdb-11eb-8034-b2187fb11fb7.PNG" alt="schematization"/></p>
 
  <br>
 먼저 날숨을 MQ-3 센서에서 감지 해 기준 값(Reference) 보다 낮으면 루프를 돌면서 감지한다. 만약 기존 값(Reference) 보다 감지 값(Levels)가 높다면 LED와 부저(Buzzer)가 작동된다. 그 후에 텔레그램으로 운전자의 상태 값이 전송이 된다. 전송을 한 후 LED와 부저는 자동적으로 꺼지며 다시 처음으로 돌아가 날숨을 감지한다.
