@@ -65,9 +65,14 @@ __🥰 Member__
 
 ## __사용 품목__
 <br>
- <img src="https://user-images.githubusercontent.com/55028104/101988037-b14bbd00-3cda-11eb-9af6-fe8842f54ec7.jpg" alt="sensor"/></p>
+ <img src="https://user-images.githubusercontent.com/55028104/102213357-f90c5780-3f19-11eb-876a-d7ed229707db.jpg" alt="sensor"/></p>
 
  <br>
+**MQ-3 센서** : 알코올 감지를 위한 센서.
+**LED** : 시작적으로 운전자에게 알코올 감지 신호를 전달해 주기위함.
+**부저** : 청각적으로 운전자에게 알코올 감지 신호를 전달해 주기위함.
+**브레드보드** : MQ-3센서와 LED, 부저, 라즈베리파이를 브레드보드를 통해 연결
+
 
 -------------------------------------------------------------------
 
