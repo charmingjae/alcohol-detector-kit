@@ -72,10 +72,13 @@ __🥰 Member__
 <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988164-4fd81e00-3cdb-11eb-8034-b2187fb11fb7.PNG" alt="schematization"/></p>
 
 <br>
+<div align="center">
 
-먼저 운전자의 날숨을 MQ-3 센서에서 감지 해 __기준 값(Reference) 보다 낮으면__ 루프를 돌면서 지속적으로 감지한다.  
-만약 기존 값(Reference) 보다 __감지 값(Levels)가 높다면__ LED와 부저(Buzzer)가 작동한다.  
-그 후에 텔레그램으로 운전자의 상태가 전송되며 전송이 된 후 LED와 부저는 작동을 멈추고 다시 처음으로 돌아가 날숨을 감지하는 과정을 수행한다.
+1. 먼저 운전자의 날숨을 MQ-3 센서에서 감지 해 __기준 값(Reference) 보다 낮으면__ 루프를 돌면서 지속적으로 감지한다.  
+2. 만약 기존 값(Reference) 보다 __감지 값(Levels)가 높다면__ LED와 부저(Buzzer)가 작동한다.  
+3. 그 후에 텔레그램으로 운전자의 상태가 전송되며 전송이 된 후 LED와 부저는 작동을 멈추고 다시 처음으로 돌아가 날숨을 감지하는 과정을 수행한다.
+
+</div>
 
 <br/>
 
