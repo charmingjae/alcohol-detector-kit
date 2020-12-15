@@ -45,25 +45,25 @@ __🥰 Member__
 <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101987654-e3f4b600-3cd8-11eb-8a66-434f1d07e1d4.jpeg" alt="drive" width="600"/></p>
  <br>
  
-사람들은 음주 후의 운전의 위험함과 심각성을 충분히 인지하고 있지만, 음주운전으로 인한 사고 비율은 [__여전히 높은 추세 이다.__](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84)
-따라서 본 프로젝트는 라즈베리파이를 이용한 저가의 하드웨어를 이용하여 음주운전 시도 시 주변 사람들에게 텔레그램으로 알람을 주는 키트를 제작함.
+사람들은 음주 후의 운전의 위험함과 심각성을 충분히 인지하고 있지만, 음주운전으로 인한 사고 비율은 [__여전히 높은 추세 이다.__](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84)  
+따라서 라즈베리파이를 이용하여 가격, 활용 면에서 실용적이고 운전자의 음주운전을 예방하고자 본 프로젝트를 진행하게 되었다.
 
 -----------------------------------------------------------------                                                                                                                               
 <br>
 <br>
 
-## 프로젝트 소개
+## __프로젝트 소개__
  
-<p align="center"><img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="800"/></p>    
- <br>
- 이번 프로젝트에 제작하게 된 mq3센서를 이용한 차량부착형 알코올 감지키트는 운전자 좌석 차량옆면이나 위에 부착하여 사용한다. 운전자의 날숨에서 알코올을 감지하여 시각적, 청각적으로 알림을 주고 주변 사람들에게 메세지를 보낸다.
+<p align="center"><img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="400"/></p>  
+<br/>
+본 프로젝트의 주제는 차량 부착형 알코올 감지 키트이다. 운전자의 음주 여부를 판독하기 위해 운전자의 **날숨을 감지할 수 있는** 차량의 대시보드(Dashboard), 핸들 등의 위치에 부착된다.
 
 -------------------------------------------------------------------
 
 <br>
 <br> 
 
-## 사용 품목 
+## __사용 품목__
 <br>
  <img src="https://user-images.githubusercontent.com/55028104/101988037-b14bbd00-3cda-11eb-9af6-fe8842f54ec7.jpg" alt="sensor"/></p>
 
@@ -74,7 +74,7 @@ __🥰 Member__
 <br>
 <br> 
 
-## 라즈베리파이 구성도
+## __라즈베리파이 구성도__
 
 <br>
  <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988074-0091ed80-3cdb-11eb-8f6e-930be7482161.png" alt="configuration"/></p>
@@ -102,9 +102,9 @@ __🥰 Member__
 ## 문제점과 해결과정
 
 <br>
- <br>
+<br>
 
- <br>
+<br>
 문제점과 해결과정
  <br>
 <br>
