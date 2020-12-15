@@ -180,7 +180,7 @@ __👨🏻‍💻 텔레그램(Telegram) 연동 👨🏻‍💻__
 
 __👨🏻‍💻 최종 시연 영상 👨🏻‍💻__
 
-[__☘️ 보러가기☘️__](https://youtu.be/f0wG7AQW8mU)
+[__☘️ 보러가기☘️__](https://www.youtube.com/watch?v=f0wG7AQW8mU)
 
 </div>
 
