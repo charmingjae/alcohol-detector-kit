@@ -157,11 +157,22 @@ __🥰 Member__
  <img src="" alt=""/>
  <div align="center">
 
- __👨🏻‍💻 데모 영상👨🏻‍💻__
+ __👨🏻‍💻 데모 영상 - 초기 흐름도 구현👨🏻‍💻__
 
  </div>
 
  ![demo](https://user-images.githubusercontent.com/54883521/102215101-98324e80-3f1c-11eb-92a0-441e723588b1.gif)
+
+<br/><br/>
+
+<div align="center">
+
+__👨🏻‍💻 텔레그램(Telegram) 연동 👨🏻‍💻__
+
+ ![demo_telegram](https://user-images.githubusercontent.com/54883521/102218669-aafb5200-3f21-11eb-8920-14039f83c174.gif)
+
+</div>
+
 
 
 
