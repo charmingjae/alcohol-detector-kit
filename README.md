@@ -169,7 +169,8 @@ __🥰 Member__
 
 __👨🏻‍💻 텔레그램(Telegram) 연동 👨🏻‍💻__
 
-![demo_telegram](https://user-images.githubusercontent.com/54883521/102219308-a6836900-3f22-11eb-9a7b-915cad2898f3.gif)
+![demo_telegram](https://user-images.githubusercontent.com/54883521/102219658-1abe0c80-3f23-11eb-834b-4cd5d4c232f7.gif)
+
 
 
 </div>
