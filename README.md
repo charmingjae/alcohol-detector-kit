@@ -29,20 +29,20 @@ __🥰 Member__
 
 ## 🚩 __Contents__
 
-1. __Abstract__
-2. __프로젝트 소개__
-3. __Flow-chart__
-4. __사용 품목__
-5. __라즈베리파이 구성도__
-6. __문제점과 해결과정__
-7. __시연__
-8. __기대효과__
+1. __📖 Abstract__
+2. __📦 프로젝트 소개__
+3. __🌊 Flow-chart__
+4. __⚙️ 사용 품목__
+5. __🍒 라즈베리파이 구성도__
+6. __🥳 문제점과 해결과정__
+7. __👩🏻‍💻 시연__
+8. __🎉 EFFECT__
 9. __Q&A__
 
 <br/>
 <br/>
 
-## Abstract 
+## __📖 Abstract__
 <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101987654-e3f4b600-3cd8-11eb-8a66-434f1d07e1d4.jpeg" alt="drive" width="400"/></p>
 <br/>
  
@@ -53,7 +53,7 @@ __🥰 Member__
 -----------------------------------------------------------------      
 <br>
 
-## __프로젝트 소개__
+## __📦 프로젝트 소개__
  
 <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101986434-2dd99e00-3cd1-11eb-9627-da640e38ac69.jpg" alt="car" width="400"/></p>  
 <br/>
@@ -68,7 +68,7 @@ __🥰 Member__
 -------------------------------------------------------------------
 <br/>
 
-## Flow-chart 
+## __🌊 Flow-chart__
 <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988164-4fd81e00-3cdb-11eb-8034-b2187fb11fb7.PNG" alt="schematization"/></p>
 
 <br>
@@ -84,7 +84,7 @@ __🥰 Member__
 <br/>
 <br/>
 
-## __사용 품목__
+## __⚙️ 사용 품목__
 <br>
  <img src="https://user-images.githubusercontent.com/55028104/102213357-f90c5780-3f19-11eb-876a-d7ed229707db.jpg" alt="sensor"/></p>
 
@@ -102,7 +102,7 @@ __🥰 Member__
 <br>
 <br> 
 
-## __라즈베리파이 구성도__
+## __🍒 라즈베리파이 구성도__
 
 <br>
  <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988074-0091ed80-3cdb-11eb-8f6e-930be7482161.png" alt="configuration"/></p>
@@ -119,7 +119,7 @@ __🥰 Member__
 <br>
 <br>  
 
-## 문제점과 해결과정
+## __🥳 문제점과 해결과정__
 
 <br>
 <br>
@@ -143,12 +143,18 @@ __🥰 Member__
 <br>
 <br> 
 
-## 동작시연  
+## __👩🏻‍💻 시연__
 
 <br>
  <img src="" alt=""/>
+ <div align="center">
+
+ __👨🏻‍💻 데모 영상👨🏻‍💻__
+
+ </div>
 
  ![demo](https://user-images.githubusercontent.com/54883521/102215101-98324e80-3f1c-11eb-92a0-441e723588b1.gif)
+
 
 
 [![Video](http://img.youtube.com/vi/5z4goYCxdMU/0.jpg)](https://youtu.be/5z4goYCxdMU)
@@ -159,7 +165,7 @@ __🥰 Member__
 <br>
 <br>
 
-## 기대효과 
+## __🎉 EFFECT__
 
 <br>
  <img src="" alt=""/>
