@@ -1,4 +1,5 @@
- < align="center"><img src="https://user-images.githubusercontent.com/55028104/101986756-3cc15000-3cd3-11eb-9458-e2183839231b.PNG" alt="logo"  width="600" />    
+ <div align="center"><img src="https://user-images.githubusercontent.com/55028104/101986756-3cc15000-3cd3-11eb-9458-e2183839231b.PNG" alt="logo"  width="600" />    
+ </div>
  <br>
  <div align="center">
 
@@ -31,8 +32,8 @@ __🥰 Member__
 1. __Abstract__
 2. __프로젝트 소개__
 3. __사용 품목__
-4. __라즈베리파이 구성도__
 5. __Flow-chart__
+4. __라즈베리파이 구성도__
 6. __문제점과 해결과정__
 7. __시연__
 9. __기대효과__
@@ -67,7 +68,7 @@ __🥰 Member__
 -------------------------------------------------------------------
 <br/>
 
-## 도식화 
+## Flow-chart 
 <p align="center"><img src="https://user-images.githubusercontent.com/55028104/101988164-4fd81e00-3cdb-11eb-8034-b2187fb11fb7.PNG" alt="schematization"/></p>
 
 <br>
