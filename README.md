@@ -116,7 +116,7 @@ __🥰 Member__
  <p align="center"><img src="https://github.com/charmingjae/raspberry/blob/master/img/configuration%20V2.png" alt="configuration"/></p>
  <br>
  
- **MQ-3 센서, LED, 부저**  연결한 **브레드보드** 를 **라즈베리파이** 에 연결한 구성도이다.
+ **MQ-3 센서, LED, 부저** 가 연결된 **브레드보드** 를 **라즈베리파이** 에 연결한 구성도이다.
  
   <br>
 
